@@ -246,7 +246,7 @@ Here are some TODO items and ideas.
 
 #### Ideas
 
-  - simple framework for controllers and 3rd-party resource (e.g. chaos monkey of sorts, or use terraform to create an exteranl resource and store URL in a secret, custom policy controller made easy)
+  - simple framework for controllers and 3rd-party resource (e.g. chaos monkey of sorts, or use terraform to create an external resource and store URL in a secret, custom policy controller made easy)
   - multi-cluster support
   - resource diff
   - network policy tester framework
